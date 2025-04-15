@@ -1,6 +1,6 @@
 ## Olá mundo! Eu sou Víctor Henrique
 
-- 📚 Cursando 6° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos
 
 <div align="center">
 	<a href="https://github.com/ViktorHenrique">
